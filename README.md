@@ -1,6 +1,6 @@
 # 🧾 Sistema de Gestión de Ventas - Examen Visual Basic .NET
 
-Este proyecto es una aplicación de escritorio desarrollada en **Visual Basic .NET (WinForms)** con conexión a **SQL Server**. Permite gestionar **clientes, productos y ventas**, cumpliendo con los requisitos del examen final de programación.
+Este proyecto es una aplicación de escritorio desarrollada en **Visual Basic .NET (WinForms)** con conexión a **SQL Server**. Permite gestionar **clientes, productos y ventas**, cumpliendo con los requisitos del cliente.
 
 ---
 
